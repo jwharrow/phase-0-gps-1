@@ -8,4 +8,4 @@ _Coding is cool_
 
 Click [here](https://github.com/)  for cool code
 
-[Best pairing ever!](screencap.png)
+[Best pairing ever!](./Screencap.png)
